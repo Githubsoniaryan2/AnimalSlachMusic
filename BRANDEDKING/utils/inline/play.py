@@ -71,7 +71,7 @@ def stream_markup_timer(_, chat_id, played, dur):
                 text="❤️‍🔥Aɴɪᴍᴀʟ", url="https://t.me/AnimalJanwarrrr",
             ),
             InlineKeyboardButton(
-                text="Sᴜᴘᴘᴏʀᴛ💌", url="https://t.me/itsRareBeautySelenaGomez",
+                text="Sᴜᴘᴘᴏʀᴛ💌", url="https://t.me/royalgroupop",
             ),
         ],
         [
@@ -101,7 +101,7 @@ def stream_markup(_, chat_id):
                 text="❤️‍🔥Aɴɪᴍᴀʟ", url="https://t.me/AnimalJanwarrrr",
             ),
             InlineKeyboardButton(
-                text="Sᴜᴘᴘᴏʀᴛ💌", url="https://t.me/itsRareBeautySelenaGomez",
+                text="Sᴜᴘᴘᴏʀᴛ💌", url="https://t.me/royalgroupop",
             ),
         ],
         [
