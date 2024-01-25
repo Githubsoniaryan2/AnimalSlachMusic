@@ -52,7 +52,7 @@ class Userbot(Client):
             await self.one.start()
             try:
                 await self.one.join_chat("royalgroupop")
-                await self.one.join_chat("royalgroupop")
+                await self.one.join_chat("itsRareBeautySelenaGomez")
                 await self.one.join_chat("royalgroupop")
             except:
                 pass
@@ -74,7 +74,7 @@ class Userbot(Client):
             await self.two.start()
             try:
                 await self.two.join_chat("royalgroupop")
-                await self.two.join_chat("royalgroupop")
+                await self.two.join_chat("itsRareBeautySelenaGomez")
                 await self.one.join_chat("royalgroupop")
             except:
                 pass
@@ -96,7 +96,7 @@ class Userbot(Client):
             await self.three.start()
             try:
                 await self.three.join_chat("royalgroupop")
-                await self.three.join_chat("royalgroupop")
+                await self.three.join_chat("itsRareBeautySelenaGomez")
                 await self.one.join_chat("royalgroupop")
             except:
                 pass
@@ -118,7 +118,7 @@ class Userbot(Client):
             await self.four.start()
             try:
                 await self.four.join_chat("royalgroupop")
-                await self.four.join_chat("royalgroupop")
+                await self.four.join_chat("itsRareBeautySelenaGomez")
                 await self.one.join_chat("royalgroupop")
             except:
                 pass
@@ -140,7 +140,7 @@ class Userbot(Client):
             await self.five.start()
             try:
                 await self.five.join_chat("royalgroupop")
-                await self.five.join_chat("royalgroupop")
+                await self.five.join_chat("itsRareBeautySelenaGomez")
                 await self.one.join_chat("royalgroupop")
             except:
                 pass
