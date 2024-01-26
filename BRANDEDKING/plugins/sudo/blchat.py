@@ -59,3 +59,5 @@ async def all_chats(client, message: Message, _):
         await message.reply_text(_["black_8"].format(app.mention))
     else:
         await message.reply_text(text)
+
+
