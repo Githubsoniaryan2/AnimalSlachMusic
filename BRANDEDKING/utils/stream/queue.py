@@ -89,3 +89,5 @@ async def put_queue_index(
             db[chat_id].append(put)
     else:
         db[chat_id].append(put)
+
+
