@@ -50,7 +50,7 @@ async def init():
         pass
     await BRANDED.decorators()
     LOGGER("BRANDEDKING").info(
-        "BRANDED Music Bot Started Successfully"
+        "DROP YOUR GIRLFRIEND'S NUMBER AND SEXY PIC TO @AnimalJanwarrrr JOIN @itsRareBeautySelenaGomez , @royalgroupop"
     )
     await idle()
     await app.stop()
