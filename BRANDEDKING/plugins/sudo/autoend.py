@@ -22,3 +22,5 @@ async def auto_end_stream(_, message: Message):
         await message.reply_text("» ᴀᴜᴛᴏ ᴇɴᴅ sᴛʀᴇᴀᴍ ᴅɪsᴀʙʟᴇᴅ.")
     else:
         await message.reply_text(usage)
+
+
