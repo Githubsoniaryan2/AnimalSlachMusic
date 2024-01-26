@@ -12,3 +12,5 @@ close = 30
 @app.on_message(filters.video_chat_ended, group=close)
 async def welcome(_, message: Message):
     await BRANDED.stop_stream_force(message.chat.id)
+
+
