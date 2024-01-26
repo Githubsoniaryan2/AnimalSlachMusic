@@ -33,3 +33,7 @@ for filename in os.listdir(r"./strings/langs/"):
         print("There is some issue with the language file inside bot.")
         exit()
 
+
+
+
+
