@@ -12,3 +12,5 @@ try:
 except:
     LOGGER(__name__).error("Failed to connect to your Mongo Database.")
     exit()
+
+
