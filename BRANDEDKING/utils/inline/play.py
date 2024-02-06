@@ -71,7 +71,7 @@ def stream_markup_timer(_, chat_id, played, dur):
                 text="❤️‍🔥Aɴɪᴍᴀʟ", url="https://t.me/AnimalJanwarrrr",
             ),
             InlineKeyboardButton(
-                text="Sᴜᴘᴘᴏʀᴛ💌", url="https://t.me/royalgroupop",
+                text="Sᴜᴘᴘᴏʀᴛ💌", url=config.SUPPORT_CHAT),
             ),
         ],
         [
@@ -79,7 +79,7 @@ def stream_markup_timer(_, chat_id, played, dur):
                  text="🌹Sᴏᴜʀᴄᴇ", url=f"https://te.legra.ph/file/ec19cf227791a167abedc.jpg",
             ),
             InlineKeyboardButton(
-                text="Cʜᴀɴɴᴇʟ🦋", url=f"https://t.me/itsRareBeautySelenaGomez",
+                text="Cʜᴀɴɴᴇʟ🦋", url=config.SUPPORT_CHANNEL),
             ),
         ],
         [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
@@ -101,7 +101,7 @@ def stream_markup(_, chat_id):
                 text="❤️‍🔥Aɴɪᴍᴀʟ", url="https://t.me/AnimalJanwarrrr",
             ),
             InlineKeyboardButton(
-                text="Sᴜᴘᴘᴏʀᴛ💌", url="https://t.me/royalgroupop",
+                text="Sᴜᴘᴘᴏʀᴛ💌", url=config.SUPPORT_CHAT),
             ),
         ],
         [
@@ -109,7 +109,7 @@ def stream_markup(_, chat_id):
                 text="🌹Sᴏᴜʀᴄᴇ", url=f"https://te.legra.ph/file/ec19cf227791a167abedc.jpg",
             ),
             InlineKeyboardButton(
-                text="Cʜᴀɴɴᴇʟ🦋", url=f"https://t.me/itsRareBeautySelenaGomez",
+                text="Cʜᴀɴɴᴇʟ🦋", url=config.SUPPORT_CHANNEL),
             ),
         ],
         [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
