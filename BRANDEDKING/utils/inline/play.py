@@ -79,7 +79,7 @@ def stream_markup_timer(_, chat_id, played, dur):
                  text="🌹Sᴏᴜʀᴄᴇ", url=f"https://te.legra.ph/file/ec19cf227791a167abedc.jpg",
             ),
             InlineKeyboardButton(
-                text="Cʜᴀɴɴᴇʟ🦋", url="https://t.me/itsRareBeautySelenaGome",
+                text="Cʜᴀɴɴᴇʟ🦋", url="https://t.me/itsRareBeautySelenaGomez",
             ),
         ],
         [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
@@ -109,7 +109,7 @@ def stream_markup(_, chat_id):
                 text="🌹Sᴏᴜʀᴄᴇ", url=f"https://te.legra.ph/file/ec19cf227791a167abedc.jpg",
             ),
             InlineKeyboardButton(
-                text="Cʜᴀɴɴᴇʟ🦋", url="https://t.me/itsRareBeautySelenaGome",
+                text="Cʜᴀɴɴᴇʟ🦋", url="https://t.me/itsRareBeautySelenaGomez",
             ),
         ],
         [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
