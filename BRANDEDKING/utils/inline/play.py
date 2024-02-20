@@ -68,18 +68,18 @@ def stream_markup_timer(_, chat_id, played, dur):
         ],
         [
             InlineKeyboardButton(
-                text="🌹Sʏsᴛᴇᴍ", url="https://t.me/system30",
+                text="🌹Sʏsᴛᴇᴍ🌹", url="https://t.me/systum30",
             ),
             InlineKeyboardButton(
-                text="Aɴɪᴍᴀʟ❤️‍🔥", url="https://t.me/AnimalJanwarrrr",
+                text="❤️‍🔥Aɴɪᴍᴀʟ❤️‍🔥", url="https://t.me/AnimalJanwarrrr",
             ),
         ],
         [
             InlineKeyboardButton(
-                 text="💌Sᴜᴘᴘᴏʀᴛ", url="https://t.me/fwf_world",
+                 text="💌Sᴜᴘᴘᴏʀᴛ💌", url="https://t.me/fwf_world",
             ),
             InlineKeyboardButton(
-                text="Cʜᴀɴɴᴇʟ🦋", url="https://t.me/itsRareBeautySelenaGomez",
+                text="🦋Cʜᴀɴɴᴇʟ🦋", url="https://t.me/itsRareBeautySelenaGomez",
             ),
         ],
         [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
@@ -98,18 +98,18 @@ def stream_markup(_, chat_id):
         ],
         [
             InlineKeyboardButton(
-                text="🌹Sʏsᴛᴇᴍ", url="https://t.me/system30",
+                text="🌹Sʏsᴛᴇᴍ🌹", url="https://t.me/systum30",
             ),
             InlineKeyboardButton(
-                text="Aɴɪᴍᴀʟ❤️‍🔥", url="https://t.me/AnimalJanwarrrr",
+                text="❤️‍🔥Aɴɪᴍᴀʟ❤️‍🔥", url="https://t.me/AnimalJanwarrrr",
             ),
         ],
         [
             InlineKeyboardButton(
-                text="💌Sᴜᴘᴘᴏʀᴛ", url="https://t.me/fwf_world",
+                text="💌Sᴜᴘᴘᴏʀᴛ💌", url="https://t.me/fwf_world",
             ),
             InlineKeyboardButton(
-                text="Cʜᴀɴɴᴇʟ🦋", url="https://t.me/itsRareBeautySelenaGomez",
+                text="🦋Cʜᴀɴɴᴇʟ🦋", url="https://t.me/itsRareBeautySelenaGomez",
             ),
         ],
         [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
