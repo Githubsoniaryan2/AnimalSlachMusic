@@ -76,7 +76,7 @@ def stream_markup_timer(_, chat_id, played, dur):
         ],
         [
             InlineKeyboardButton(
-                 text="💌Sᴜᴘᴘᴏʀᴛ💌", url="https://t.me/fwf_world",
+                 text="💌Sᴜᴘᴘᴏʀᴛ💌", url="https://t.me/Dosti_sa_payar",
             ),
             InlineKeyboardButton(
                 text="🦋Cʜᴀɴɴᴇʟ🦋", url="https://t.me/itsRareBeautySelenaGomez",
@@ -106,7 +106,7 @@ def stream_markup(_, chat_id):
         ],
         [
             InlineKeyboardButton(
-                text="💌Sᴜᴘᴘᴏʀᴛ💌", url="https://t.me/fwf_world",
+                text="💌Sᴜᴘᴘᴏʀᴛ💌", url="https://t.me/Dosti_sa_payar",
             ),
             InlineKeyboardButton(
                 text="🦋Cʜᴀɴɴᴇʟ🦋", url="https://t.me/itsRareBeautySelenaGomez",
